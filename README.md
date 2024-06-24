@@ -1,0 +1,1 @@
+Let's Git It 과제 제출용 repository입니다.
